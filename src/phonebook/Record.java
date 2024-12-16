@@ -1,5 +1,6 @@
 package phonebook;
 
+
 public class Record {
     String name;
     String phone;
