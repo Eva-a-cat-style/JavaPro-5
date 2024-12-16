@@ -1,6 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
+
 public class CalcOccurrence {
 
     public static void calcOccurrence(List<String> list) {
